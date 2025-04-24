@@ -64,12 +64,15 @@ En la validación de cantidad de entradas, se informa cuando desea comprar más 
 Se valida descuentos a aplicar según edad se determina el tipo de Descuento, si es estudiante o tercera edad:
 
 estudiante:
+
 ![Captura de pantalla 2025-04-24 104356](https://github.com/user-attachments/assets/97ec0731-6652-4186-a5e4-41884a31a952)
 
 tercera edad:
+
 ![Captura de pantalla 2025-04-24 105056](https://github.com/user-attachments/assets/bf1b71c9-63c6-46dc-819a-9975d9defd94)
 
 tarifa normal:
+
 ![Captura de pantalla 2025-04-24 105126](https://github.com/user-attachments/assets/2e3d9e3f-2e63-43fc-8107-2a644f64a1fd)
 
 
