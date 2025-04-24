@@ -62,6 +62,7 @@ En la validación de cantidad de entradas, se informa cuando desea comprar más 
 ![Captura de pantalla 2025-04-24 104226](https://github.com/user-attachments/assets/215d9bff-3530-4417-a323-0bef581bdbc9)
 
 Se valida descuentos a aplicar según edad se determina el tipo de Descuento, si es estudiante o tercera edad:
+
 estudiante:
 ![Captura de pantalla 2025-04-24 104356](https://github.com/user-attachments/assets/97ec0731-6652-4186-a5e4-41884a31a952)
 
@@ -97,19 +98,8 @@ Con la opción 6 se entrega un mensaje de salida y se cierra el programa:
 ![Captura de pantalla 2025-04-24 105427](https://github.com/user-attachments/assets/e8cfaac8-ee7c-4653-9b9d-64f79a26c742)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Observación:
+El programa permitiría la generación de un listado de boletas, ya que existe la lista que almacena toda esa inforamción, las cuales tienen un mayor detalle, y contiene la información de cada venta realizada de manera correlativa, pero no se agregó en esta ocasión. 
 
 
 
